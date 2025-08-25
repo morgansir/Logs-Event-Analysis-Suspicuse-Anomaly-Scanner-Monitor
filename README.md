@@ -88,8 +88,11 @@ LogGuardian Pro هو نظام متقدم لتحليل السجلات ومراق�
 
 
 
+<img width="1920" height="1080" alt="‏‏لقطة الشاشة (296)" src="https://github.com/user-attachments/assets/ffb55dae-48e8-4a6f-9c69-c2e388657963" />
 
+<img width="1920" height="1080" alt="‏‏لقطة الشاشة (297)" src="https://github.com/user-attachments/assets/929f238f-82a1-46b9-9d0b-559d2f0eab2e" />
 
+<img width="1920" height="1080" alt="‏‏لقطة الشاشة (301)" src="https://github.com/user-attachments/assets/92e1344c-0268-4a3d-a568-b1dee47d982e" />
 
 
 ![‏‏لقطة الشاشة (272)](https://github.com/user-attachments/assets/3081e006-8ac5-4e42-b597-9ddad5114042)
